@@ -1,4 +1,6 @@
 # 1er Tarea plataformas abiertas
 
-*Nombre de estudiante:* Marco Arias Arias.
+**Nombre completo:** [Marco Arias Arias.]
+**Edad:** [30]
+**Carrera:** Desarollo [Web]
 
