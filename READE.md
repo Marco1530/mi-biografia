@@ -4,3 +4,8 @@
 **Edad:** [30]
 **Carrera:** Desarollo [Web]
 
+# Hobbies
+
+-Leer
+-Escuchar Musica
+-Ver series
